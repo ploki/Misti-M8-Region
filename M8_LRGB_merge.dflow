@@ -1,0 +1,145 @@
+{
+    "baseDirectory": ".",
+    "connections": [
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}",
+            "outPortIdx": 0,
+            "outPortUuid": "{b7b999b1-a770-4d5b-8f7a-b5688935f403}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}",
+            "outPortIdx": 0,
+            "outPortUuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}",
+            "outPortIdx": 1,
+            "outPortUuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}",
+            "outPortIdx": 2,
+            "outPortUuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}"
+        },
+        {
+            "inPortIdx": 3,
+            "inPortUuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}",
+            "outPortIdx": 3,
+            "outPortUuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{1f8ccb9e-63a3-4c27-a8fe-1ded4f8f790a}",
+            "outPortIdx": 0,
+            "outPortUuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}"
+        }
+    ],
+    "nodes": [
+        {
+            "classIdentifier": "Images",
+            "enabled": true,
+            "name": "Images",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "files": [
+                        "m8_060527_11i55m_L.fit",
+                        "m8_060527_3i15m_R.fit",
+                        "m8_060527_3i15m_G.fit",
+                        "m8_060527_3i15m_B.fit"
+                    ],
+                    "name": "imageCollection",
+                    "type": "filesCollection"
+                },
+                {
+                    "currentValue": "Linear",
+                    "name": "colorSpace",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{b7b999b1-a770-4d5b-8f7a-b5688935f403}",
+            "x": -450,
+            "y": -236
+        },
+        {
+            "classIdentifier": "4-way Demultiplexer",
+            "enabled": true,
+            "name": "Démultiplexeur 1→ 4",
+            "outputsEnabled": [
+                true,
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+            ],
+            "tags": {
+            },
+            "uuid": "{7b6dd470-74bf-448d-9323-93a6138403c4}",
+            "x": -181,
+            "y": -236
+        },
+        {
+            "classIdentifier": "LRGB Compose",
+            "enabled": true,
+            "name": "LRVB: Composition",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "No",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{99fd5cd5-88f2-4612-901a-23d870eefa30}",
+            "x": 110,
+            "y": -237
+        },
+        {
+            "classIdentifier": "Save",
+            "enabled": true,
+            "name": "Enregistrement",
+            "outputsEnabled": [
+            ],
+            "parameters": [
+                {
+                    "name": "directory",
+                    "target": ".",
+                    "type": "directory"
+                },
+                {
+                    "currentValue": "FITS",
+                    "name": "fileType",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "No",
+                    "name": "backup",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+                "{99fd5cd5-88f2-4612-901a-23d870eefa30}:0": {
+                    "Name": "M8-Region-by-Jim-Misti"
+                }
+            },
+            "uuid": "{1f8ccb9e-63a3-4c27-a8fe-1ded4f8f790a}",
+            "x": 397,
+            "y": -233
+        }
+    ],
+    "notes": "In order to get this project working, grab a copy of the four pictures (L,R,G,B) of the M8 Region on\nhttp://www.mistisoftware.com/astronomy/index_fits.htm",
+    "projectName": "M8 LRGB merge"
+}
