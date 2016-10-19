@@ -10,13 +10,13 @@ The only condition is that the credit line include the phrase
 
 # Processed with [DarkFlow](http://www.darkflow.org/).
 
-![Sagitarius Trio](Sagittarius-Trio.jpg)
+![Sagitarius Trio](Sagittarius-Trio-by-Jim-Misti.jpg)
 
 Image processing is simpler with good quality source photographs.
 
 Here, the quality of the source material is very good, as usual with Jim Misti work. So the processing is made easier to accomplish.
 
-Take a look at [Jim Misti excellent work](http://www.mistisoftware.com/astronomy/index_fits.htm), it's woth the detour!
+Take a look at [Jim Misti excellent work](http://www.mistisoftware.com/astronomy/index_fits.htm), it's worth the detour!
 
 ## Contribute
 You can contribute to this repository, fork it, try
