@@ -2,142 +2,28 @@
     "baseDirectory": ".",
     "connections": [
         {
-            "inPortIdx": 3,
-            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
-            "outPortIdx": 2,
-            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
-        },
-        {
-            "inPortIdx": 2,
-            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
-            "outPortIdx": 1,
-            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
-            "outPortIdx": 0,
-            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
-        },
-        {
             "inPortIdx": 0,
-            "inPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}",
+            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
             "outPortIdx": 0,
-            "outPortUuid": "{c80e8b89-8e16-4396-9c86-2ba7828d84f6}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}",
-            "outPortIdx": 0,
-            "outPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}",
-            "outPortIdx": 0,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{baa11cf8-8ac3-4af1-aa4e-bc8d17bcb79a}",
-            "outPortIdx": 1,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 0,
-            "outPortUuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 0,
-            "outPortUuid": "{baa11cf8-8ac3-4af1-aa4e-bc8d17bcb79a}"
-        },
-        {
-            "inPortIdx": 2,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 2,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 3,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 3,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 4,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 4,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 5,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 5,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
-        },
-        {
-            "inPortIdx": 6,
-            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "outPortIdx": 6,
-            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+            "outPortUuid": "{d24c800b-058d-4500-af59-e922bd005158}"
         },
         {
             "inPortIdx": 0,
             "inPortUuid": "{2f3d56e9-5141-4d35-8abc-c7eaa948abd8}",
             "outPortIdx": 0,
+            "outPortUuid": "{d24c800b-058d-4500-af59-e922bd005158}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{d24c800b-058d-4500-af59-e922bd005158}",
+            "outPortIdx": 0,
             "outPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}"
         },
         {
             "inPortIdx": 0,
-            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
+            "inPortUuid": "{41b89d50-6655-4fc3-9925-620d9f9f6870}",
             "outPortIdx": 0,
-            "outPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
-            "outPortIdx": 0,
-            "outPortUuid": "{2f3d56e9-5141-4d35-8abc-c7eaa948abd8}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}",
-            "outPortIdx": 0,
-            "outPortUuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}"
-        },
-        {
-            "inPortIdx": 2,
-            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
-            "outPortIdx": 0,
-            "outPortUuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
-            "outPortIdx": 0,
-            "outPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
-            "outPortIdx": 0,
-            "outPortUuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{942849be-0c23-4986-aae3-671d1656fea3}",
-            "outPortIdx": 0,
-            "outPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{e3ca3384-073f-46cd-b40d-579eff75a738}",
-            "outPortIdx": 0,
-            "outPortUuid": "{942849be-0c23-4986-aae3-671d1656fea3}"
+            "outPortUuid": "{e14d1ed2-4a8c-4c52-a93b-d9613a09e91f}"
         },
         {
             "inPortIdx": 0,
@@ -147,64 +33,325 @@
         },
         {
             "inPortIdx": 0,
-            "inPortUuid": "{41b89d50-6655-4fc3-9925-620d9f9f6870}",
+            "inPortUuid": "{e3ca3384-073f-46cd-b40d-579eff75a738}",
             "outPortIdx": 0,
-            "outPortUuid": "{e14d1ed2-4a8c-4c52-a93b-d9613a09e91f}"
+            "outPortUuid": "{942849be-0c23-4986-aae3-671d1656fea3}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{942849be-0c23-4986-aae3-671d1656fea3}",
+            "outPortIdx": 0,
+            "outPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
+            "outPortIdx": 0,
+            "outPortUuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
+            "outPortIdx": 0,
+            "outPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
+            "outPortIdx": 0,
+            "outPortUuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}",
+            "outPortIdx": 0,
+            "outPortUuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
+            "outPortIdx": 0,
+            "outPortUuid": "{2f3d56e9-5141-4d35-8abc-c7eaa948abd8}"
+        },
+        {
+            "inPortIdx": 6,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 6,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 5,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 5,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 4,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 4,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 3,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 3,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 2,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 0,
+            "outPortUuid": "{baa11cf8-8ac3-4af1-aa4e-bc8d17bcb79a}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "outPortIdx": 0,
+            "outPortUuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{baa11cf8-8ac3-4af1-aa4e-bc8d17bcb79a}",
+            "outPortIdx": 1,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}",
+            "outPortIdx": 0,
+            "outPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}",
+            "outPortIdx": 0,
+            "outPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}",
+            "outPortIdx": 0,
+            "outPortUuid": "{c80e8b89-8e16-4396-9c86-2ba7828d84f6}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
+            "outPortIdx": 0,
+            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
+            "outPortIdx": 1,
+            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
+        },
+        {
+            "inPortIdx": 3,
+            "inPortUuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
+            "outPortIdx": 2,
+            "outPortUuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}"
         }
     ],
     "nodes": [
         {
-            "classIdentifier": "3-way Demultiplexer",
+            "classIdentifier": "Crop",
             "enabled": true,
-            "name": "Démultiplexeur 1→ 3",
+            "name": "Crop",
             "outputsEnabled": [
-                true,
-                true,
                 true
             ],
             "parameters": [
             ],
             "tags": {
+                "{16141483-daec-4dd1-a635-d242c7849a24}:0": {
+                    "ROI": "3960.11,19.8171,13.2114,2658.79"
+                }
             },
-            "uuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}",
-            "x": -292.63871905137898,
-            "y": -263.28014205916946
+            "uuid": "{d24c800b-058d-4500-af59-e922bd005158}",
+            "x": -419.44786477551651,
+            "y": 396.77500722008318
         },
         {
-            "classIdentifier": "Images",
+            "classIdentifier": "Save",
             "enabled": true,
-            "name": "Images",
+            "name": "Save",
+            "outputsEnabled": [
+            ],
+            "parameters": [
+                {
+                    "name": "directory",
+                    "target": ".",
+                    "type": "directory"
+                },
+                {
+                    "currentValue": "JPEG",
+                    "name": "fileType",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "No",
+                    "name": "backup",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+                "{16141483-daec-4dd1-a635-d242c7849a24}:0": {
+                    "Name": "Sagittarius-Trio-by-Jim-Misti"
+                }
+            },
+            "uuid": "{41b89d50-6655-4fc3-9925-620d9f9f6870}",
+            "x": 1479.4365915491521,
+            "y": 1046.7325504557534
+        },
+        {
+            "classIdentifier": "iGamma",
+            "enabled": true,
+            "name": "iGamma",
             "outputsEnabled": [
                 true
             ],
             "parameters": [
                 {
-                    "files": [
-                        "M8-Region-by-Jim-Misti.fits"
-                    ],
-                    "name": "imageCollection",
-                    "type": "filesCollection"
+                    "max": 10,
+                    "min": 0.10000000000000001,
+                    "name": "gamma",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 1.8999999999999999
                 },
                 {
-                    "currentValue": "Linear",
-                    "name": "colorSpace",
+                    "max": 4096,
+                    "min": 1,
+                    "name": "logarithmicRange",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 328.94736842105266
+                },
+                {
+                    "currentValue": "No",
+                    "name": "revert",
                     "type": "dropdown"
                 }
             ],
             "tags": {
             },
-            "uuid": "{c80e8b89-8e16-4396-9c86-2ba7828d84f6}",
-            "x": -578.45077381974363,
-            "y": -263.85768165130207
+            "uuid": "{e14d1ed2-4a8c-4c52-a93b-d9613a09e91f}",
+            "x": 1142.063485744261,
+            "y": 1049.3147057011765
         },
         {
-            "classIdentifier": "LRGB Compose",
+            "classIdentifier": "Modulate",
             "enabled": true,
-            "name": "LRGB Compose",
+            "name": "Modulate",
             "outputsEnabled": [
                 true
             ],
             "parameters": [
+                {
+                    "max": 180,
+                    "min": -180,
+                    "name": "hue",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0
+                },
+                {
+                    "max": 2,
+                    "min": 0,
+                    "name": "saturation",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 1.6000000000000001
+                },
+                {
+                    "max": 256,
+                    "min": 1,
+                    "name": "value",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{e3ca3384-073f-46cd-b40d-579eff75a738}",
+            "x": 1519.2623951222995,
+            "y": 777.79941553195681
+        },
+        {
+            "classIdentifier": "Shape DR.",
+            "enabled": true,
+            "name": "Shape DR.",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "TanH",
+                    "name": "shape",
+                    "type": "dropdown"
+                },
+                {
+                    "max": 4096,
+                    "min": 1,
+                    "name": "dynamicRange",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1024
+                },
+                {
+                    "max": 16,
+                    "min": 1,
+                    "name": "exposure",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 6.727171322029716
+                },
+                {
+                    "currentValue": "No",
+                    "name": "lab",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{942849be-0c23-4986-aae3-671d1656fea3}",
+            "x": 1135.7441727398136,
+            "y": 778.34217220305175
+        },
+        {
+            "classIdentifier": "Blend",
+            "enabled": true,
+            "name": "Arithmetic",
+            "outputsEnabled": [
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "Divide Brighten",
+                    "name": "mode1",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "Multiply",
+                    "name": "mode2",
+                    "type": "dropdown"
+                },
                 {
                     "currentValue": "No",
                     "name": "outputHDR",
@@ -213,93 +360,183 @@
             ],
             "tags": {
             },
-            "uuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
-            "x": 90,
-            "y": -290
+            "uuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
+            "x": 748.63832196299609,
+            "y": 783.2950761846746
         },
         {
-            "classIdentifier": "6-way Forward DWT",
+            "classIdentifier": "Exposure",
             "enabled": true,
-            "name": "6-way Forward DWT",
-            "outputsEnabled": [
-                true,
-                true,
-                true,
-                true,
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "currentValue": "À trous",
-                    "name": "algorithm",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "B3-spline",
-                    "name": "wavelet",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "Yes",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}",
-            "x": -504,
-            "y": -40
-        },
-        {
-            "classIdentifier": "Threshold",
-            "enabled": true,
-            "name": "Threshold",
+            "name": "Exposure",
             "outputsEnabled": [
                 true
             ],
             "parameters": [
                 {
                     "max": 1,
-                    "min": 1.5259021896696422e-05,
-                    "name": "high",
+                    "min": 1.52587890625e-05,
+                    "name": "value",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 0.00069057413699150538
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}",
+            "x": -25.408665513889673,
+            "y": 657.87100617943361
+        },
+        {
+            "classIdentifier": "Black Body",
+            "enabled": true,
+            "name": "Black Body",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 12000,
+                    "min": 2000,
+                    "name": "temperature",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 4382
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "tint",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 0.80000000000000004
+                },
+                {
+                    "max": 1,
+                    "min": 0.00390625,
+                    "name": "intensity",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}",
+            "x": -335.61248313174781,
+            "y": 771.20406855999511
+        },
+        {
+            "classIdentifier": "Blend",
+            "enabled": true,
+            "name": "Arithmetic",
+            "outputsEnabled": [
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "Subtract",
+                    "name": "mode1",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "Addition",
+                    "name": "mode2",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "No",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
+            "x": 391.28796013438659,
+            "y": 381.84667436808871
+        },
+        {
+            "classIdentifier": "Gradient Evaluation",
+            "enabled": true,
+            "name": "Gradient Evaluation",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 20,
+                    "min": 0,
+                    "name": "radius",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 3
+                },
+                {
+                    "max": 100,
+                    "min": 0,
+                    "name": "altitude",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0
+                },
+                {
+                    "max": 8,
+                    "min": 0.125,
+                    "name": "pow",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0.5
+                }
+            ],
+            "tags": {
+                "{16141483-daec-4dd1-a635-d242c7849a24}:0": {
+                    "Points": "2934,187;215,735;774,1506;3036,1648;398,8;2217,244"
+                }
+            },
+            "uuid": "{2f3d56e9-5141-4d35-8abc-c7eaa948abd8}",
+            "x": -21.907319523481533,
+            "y": 471.09152235979207
+        },
+        {
+            "classIdentifier": "6-way Backward DWT",
+            "enabled": true,
+            "name": "6-way Backward DWT",
+            "outputsEnabled": [
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 4,
+                    "min": 0.0625,
+                    "name": "luminosity",
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
                     "value": 1
                 },
                 {
-                    "max": 1,
-                    "min": 1.5259021896696422e-05,
-                    "name": "low",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 0.00057047835870322004
-                },
-                {
-                    "currentValue": "Luminosity",
-                    "name": "component",
-                    "type": "dropdown"
-                },
-                {
                     "currentValue": "No",
-                    "name": "invert",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "mask",
+                    "name": "outputHDR",
                     "type": "dropdown"
                 }
             ],
             "tags": {
             },
-            "uuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}",
-            "x": -201,
-            "y": -39
+            "uuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
+            "x": 370.4423808148556,
+            "y": -41
         },
         {
             "classIdentifier": "Threshold",
@@ -350,199 +587,97 @@
             "y": -17
         },
         {
-            "classIdentifier": "6-way Backward DWT",
+            "classIdentifier": "Threshold",
             "enabled": true,
-            "name": "6-way Backward DWT",
-            "outputsEnabled": [
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "max": 4,
-                    "min": 0.0625,
-                    "name": "luminosity",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 1
-                },
-                {
-                    "currentValue": "No",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{16141483-daec-4dd1-a635-d242c7849a24}",
-            "x": 378,
-            "y": -41
-        },
-        {
-            "classIdentifier": "Gradient Evaluation",
-            "enabled": true,
-            "name": "Gradient Evaluation",
-            "outputsEnabled": [
-                true
-            ],
-            "parameters": [
-                {
-                    "max": 20,
-                    "min": 0,
-                    "name": "radius",
-                    "scale": "Linear",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 3
-                },
-                {
-                    "max": 100,
-                    "min": 0,
-                    "name": "altitude",
-                    "scale": "Linear",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 0
-                },
-                {
-                    "max": 8,
-                    "min": 0.125,
-                    "name": "pow",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 0.5
-                }
-            ],
-            "tags": {
-                "{16141483-daec-4dd1-a635-d242c7849a24}:0": {
-                    "Points": "76.3733,2501.69;3085.36,2386.2;3031.34,171.995;25.369,119.126"
-                }
-            },
-            "uuid": "{2f3d56e9-5141-4d35-8abc-c7eaa948abd8}",
-            "x": 694,
-            "y": 78
-        },
-        {
-            "classIdentifier": "Blend",
-            "enabled": true,
-            "name": "Arithmetic",
-            "outputsEnabled": [
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "currentValue": "Subtract",
-                    "name": "mode1",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "Addition",
-                    "name": "mode2",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{1ea1c433-c86c-427a-93cc-ab225909a995}",
-            "x": 1273.6400000000001,
-            "y": -41.379999999999995
-        },
-        {
-            "classIdentifier": "Black Body",
-            "enabled": true,
-            "name": "Black Body",
-            "outputsEnabled": [
-                true
-            ],
-            "parameters": [
-                {
-                    "max": 12000,
-                    "min": 2000,
-                    "name": "temperature",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 4392.2544635956947
-                },
-                {
-                    "max": 2,
-                    "min": 0.5,
-                    "name": "tint",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "%",
-                    "value": 0.80000000000000004
-                },
-                {
-                    "max": 1,
-                    "min": 0.00390625,
-                    "name": "intensity",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 1
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{1d0543a8-a7d9-41b4-a230-52d786136e86}",
-            "x": 574.5999999999998,
-            "y": 401.69999999999993
-        },
-        {
-            "classIdentifier": "Exposure",
-            "enabled": true,
-            "name": "Exposure",
+            "name": "Threshold",
             "outputsEnabled": [
                 true
             ],
             "parameters": [
                 {
                     "max": 1,
-                    "min": 1.52587890625e-05,
-                    "name": "value",
+                    "min": 1.5259021896696422e-05,
+                    "name": "high",
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
-                    "value": 0.00069057413699150538
+                    "value": 1
+                },
+                {
+                    "max": 1,
+                    "min": 1.5259021896696422e-05,
+                    "name": "low",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 0.00057047835870322004
+                },
+                {
+                    "currentValue": "Luminosity",
+                    "name": "component",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "No",
+                    "name": "invert",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "No",
+                    "name": "mask",
+                    "type": "dropdown"
                 }
             ],
             "tags": {
             },
-            "uuid": "{42a38185-d7c3-436c-ae8c-b4d18b14d93b}",
-            "x": 885.29999999999973,
-            "y": 263.90000000000003
+            "uuid": "{14e20c52-d396-4584-9da7-fa725c1b06d5}",
+            "x": -201,
+            "y": -39
         },
         {
-            "classIdentifier": "Blend",
+            "classIdentifier": "6-way Forward DWT",
             "enabled": true,
-            "name": "Arithmetic",
+            "name": "6-way Forward DWT",
             "outputsEnabled": [
+                true,
+                true,
+                true,
+                true,
                 true,
                 true,
                 true
             ],
             "parameters": [
                 {
-                    "currentValue": "Divide",
-                    "name": "mode1",
+                    "currentValue": "À trous",
+                    "name": "algorithm",
                     "type": "dropdown"
                 },
                 {
-                    "currentValue": "Multiply",
-                    "name": "mode2",
+                    "currentValue": "B3-spline",
+                    "name": "wavelet",
                     "type": "dropdown"
                 },
+                {
+                    "currentValue": "Yes",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{38bb6894-d4d2-4f12-a62c-a125233f0cf8}",
+            "x": -504,
+            "y": -40
+        },
+        {
+            "classIdentifier": "LRGB Compose",
+            "enabled": true,
+            "name": "LRGB Compose",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
                 {
                     "currentValue": "No",
                     "name": "outputHDR",
@@ -551,164 +686,53 @@
             ],
             "tags": {
             },
-            "uuid": "{a159f0fd-5b6c-4497-9a12-8a21a85e76af}",
-            "x": 1589.3800000000003,
-            "y": 211.64000000000004
+            "uuid": "{2247b8df-9ba6-4332-88c1-28b45aa81285}",
+            "x": 90,
+            "y": -290
         },
         {
-            "classIdentifier": "Shape DR.",
+            "classIdentifier": "Images",
             "enabled": true,
-            "name": "Shape DR.",
+            "name": "Images",
             "outputsEnabled": [
                 true
             ],
             "parameters": [
                 {
-                    "currentValue": "TanH",
-                    "name": "shape",
-                    "type": "dropdown"
+                    "files": [
+                        "M8-Region-by-Jim-Misti.fits"
+                    ],
+                    "name": "imageCollection",
+                    "type": "filesCollection"
                 },
                 {
-                    "max": 4096,
-                    "min": 1,
-                    "name": "dynamicRange",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 3755.8846915771978
-                },
-                {
-                    "max": 16,
-                    "min": 1,
-                    "name": "exposure",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 4.6404579459562525
-                },
-                {
-                    "currentValue": "No",
-                    "name": "lab",
+                    "currentValue": "Linear",
+                    "name": "colorSpace",
                     "type": "dropdown"
                 }
             ],
             "tags": {
             },
-            "uuid": "{942849be-0c23-4986-aae3-671d1656fea3}",
-            "x": 1981.98,
-            "y": 220.61000000000001
+            "uuid": "{c80e8b89-8e16-4396-9c86-2ba7828d84f6}",
+            "x": -578.45077381974363,
+            "y": -263.85768165130207
         },
         {
-            "classIdentifier": "Modulate",
+            "classIdentifier": "3-way Demultiplexer",
             "enabled": true,
-            "name": "Modulate",
+            "name": "Démultiplexeur 1→ 3",
             "outputsEnabled": [
+                true,
+                true,
                 true
             ],
             "parameters": [
-                {
-                    "max": 180,
-                    "min": -180,
-                    "name": "hue",
-                    "scale": "Linear",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 0
-                },
-                {
-                    "max": 2,
-                    "min": 0,
-                    "name": "saturation",
-                    "scale": "Linear",
-                    "type": "slider",
-                    "unit": "%",
-                    "value": 1.3749904631113146
-                },
-                {
-                    "max": 256,
-                    "min": 1,
-                    "name": "value",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 1
-                }
             ],
             "tags": {
             },
-            "uuid": "{e3ca3384-073f-46cd-b40d-579eff75a738}",
-            "x": 2373.4100000000003,
-            "y": 211.38000000000002
-        },
-        {
-            "classIdentifier": "iGamma",
-            "enabled": true,
-            "name": "iGamma",
-            "outputsEnabled": [
-                true
-            ],
-            "parameters": [
-                {
-                    "max": 10,
-                    "min": 0.10000000000000001,
-                    "name": "gamma",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "",
-                    "value": 1.9606886581153418
-                },
-                {
-                    "max": 4096,
-                    "min": 1,
-                    "name": "logarithmicRange",
-                    "scale": "Logarithmic",
-                    "type": "slider",
-                    "unit": "EV",
-                    "value": 328.94736842105266
-                },
-                {
-                    "currentValue": "No",
-                    "name": "revert",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{e14d1ed2-4a8c-4c52-a93b-d9613a09e91f}",
-            "x": 2704,
-            "y": 214.63000000000002
-        },
-        {
-            "classIdentifier": "Save",
-            "enabled": true,
-            "name": "Save",
-            "outputsEnabled": [
-            ],
-            "parameters": [
-                {
-                    "name": "directory",
-                    "target": ".",
-                    "type": "directory"
-                },
-                {
-                    "currentValue": "JPEG",
-                    "name": "fileType",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "backup",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-                "{16141483-daec-4dd1-a635-d242c7849a24}:0": {
-                    "Name": "Sagittarius-Trio-by-Jim-Misti"
-                }
-            },
-            "uuid": "{41b89d50-6655-4fc3-9925-620d9f9f6870}",
-            "x": 3042.0000000000005,
-            "y": 201.11000000000001
+            "uuid": "{0e7e578d-e346-4780-a9b4-a97a8f3fe52a}",
+            "x": -292.63871905137898,
+            "y": -263.28014205916946
         }
     ],
     "notes": "",
